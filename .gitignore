@@ -215,4 +215,4 @@ __marimo__/
 
 data/*.csv
 data
-notebooks/cache
+notebooks/regression/cache
