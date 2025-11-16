@@ -5,6 +5,7 @@ movie-recommend/
 *.md
 # ...except for README.md
 !README.md
+!note.md
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
